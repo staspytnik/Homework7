@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Cascading_Style"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cascading_Style"
+	}
+}
